@@ -1,0 +1,1 @@
+"everything start linux start with /" 
